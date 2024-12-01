@@ -25,4 +25,9 @@ LANPws is a web-based terminal interface designed to interact with PowerShell se
    ```bash
    git clone https://github.com/yourusername/LANPws.git
    cd LANPws
+
+   npm install
+   npm run build
+   node server.js
+   
    ´´´
